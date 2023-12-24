@@ -1,0 +1,2 @@
+Enter the server's address below and connect to it -
+
